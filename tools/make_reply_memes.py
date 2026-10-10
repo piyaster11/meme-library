@@ -69,7 +69,7 @@ def make(r):
     w,h=im.size;s=min(w,h);im=im.crop(((w-s)//2,(h-s)//2,(w-s)//2+s,(h-s)//2+s)).resize((1080,1080),Image.LANCZOS)
     d=ImageDraw.Draw(im);draw(d,top,25,'ma');draw(d,bot,1055,'md')
     out=f'img/reply/{id_}.jpg';im.save(out,quality=72,optimize=True)
-    cap=' / '.join(x for x in (top,bot) if x) or ORIG.get(id_,name)
+    cap=' / '.join(x for x in (top,bot) if x) or ORIG.get(id_,tpl.replace('-',' ').title())
     name=tpl.replace('-',' ').title()
     return dict(id='reply-'+id_,name=name,name_th='',caption_original=cap,type='reply',ratio='1:1',
       tags=['reply','ตอบแชท',name.lower(),cap.lower()]+kw.split(),occasions=['reply']+occ,rank=0,img=out,
