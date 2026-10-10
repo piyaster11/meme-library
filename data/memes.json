@@ -1312,164 +1312,920 @@
   "source": "https://imgflip.com/memetemplate/155067746"
  },
  {
-  "id": "reply-noted",
-  "name": "Noted",
-  "name_th": "ได้ครับ / ได้ค่ะ",
-  "caption_th": "ได้ครับ / ได้ค่ะ",
-  "caption_en": "Noted",
+  "id": "reply-this-is-fine",
+  "name": "This Is Fine",
+  "name_th": "",
+  "caption_original": "THIS IS FINE",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "noted",
+   "this is fine",
+   "this is fine",
+   "fine",
    "ok",
-   "ได้",
-   "รับทราบ",
-   "yes"
+   "ไม่เป็นไร",
+   "ไม่ไหว",
+   "deadline",
+   "เดดไลน์"
   ],
   "occasions": [
    "reply",
-   "work"
+   "work",
+   "monday"
   ],
   "rank": 1000,
-  "img": "img/reply/noted.jpg",
-  "source": "Template via Imgflip (roll-safe-think-about-it); caption by Meme Library"
+  "img": "img/reply/this-is-fine.jpg",
+  "source": "Template via Imgflip (this-is-fine); original meme wording, no translation"
  },
  {
-  "id": "reply-lol",
-  "name": "LOL",
-  "name_th": "555+",
-  "caption_th": "555+",
-  "caption_en": "LOL",
+  "id": "reply-one-does-not-simply",
+  "name": "One Does Not Simply",
+  "name_th": "",
+  "caption_original": "ONE DOES NOT SIMPLY",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "lol",
-   "haha",
-   "ขำ",
-   "ตลก",
-   "555"
+   "one does not simply",
+   "one does not simply",
+   "no",
+   "simply",
+   "ไม่ง่าย",
+   "ยาก"
   ],
   "occasions": [
    "reply",
-   "happy"
+   "work",
+   "disagree"
   ],
   "rank": 1001,
-  "img": "img/reply/lol.jpg",
-  "source": "Template via Imgflip (laughing-leo); caption by Meme Library"
+  "img": "img/reply/one-does-not-simply.jpg",
+  "source": "Template via Imgflip (one-does-not-simply); original meme wording, no translation"
  },
  {
-  "id": "reply-wait",
-  "name": "Wait...",
-  "name_th": "เดี๋ยวก่อน",
-  "caption_th": "เดี๋ยวก่อน",
-  "caption_en": "Wait...",
+  "id": "reply-not-sure-if",
+  "name": "Futurama Fry",
+  "name_th": "",
+  "caption_original": "NOT SURE IF...",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "wait",
-   "hold",
-   "on",
-   "เดี๋ยว"
+   "futurama fry",
+   "not sure if...",
+   "not",
+   "sure",
+   "confused",
+   "งง",
+   "สงสัย"
   ],
   "occasions": [
    "reply",
    "shocked"
   ],
   "rank": 1002,
-  "img": "img/reply/wait.jpg",
-  "source": "Template via Imgflip (megamind-peeking); caption by Meme Library"
+  "img": "img/reply/not-sure-if.jpg",
+  "source": "Template via Imgflip (futurama-fry); original meme wording, no translation"
  },
  {
-  "id": "reply-thanks",
-  "name": "Thank you",
-  "name_th": "ขอบคุณครับ",
-  "caption_th": "ขอบคุณครับ",
-  "caption_en": "Thank you",
+  "id": "reply-surprised-pikachu",
+  "name": "Surprised Pikachu",
+  "name_th": "",
+  "caption_original": "",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "thanks",
-   "thank",
-   "you",
-   "ขอบคุณ"
-  ],
-  "occasions": [
-   "reply",
-   "thanks"
-  ],
-  "rank": 1003,
-  "img": "img/reply/thanks.jpg",
-  "source": "Template via Imgflip (tuxedo-winnie-the-pooh); caption by Meme Library"
- },
- {
-  "id": "reply-confused",
-  "name": "Confused",
-  "name_th": "งง",
-  "caption_th": "งง",
-  "caption_en": "Confused",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "confused",
-   "งง",
+   "surprised pikachu",
+   "",
+   "surprised",
+   "shocked",
+   "ตกใจ",
+   "อึ้ง",
    "what",
-   "huh"
+   "อะไรนะ"
   ],
   "occasions": [
    "reply",
    "shocked"
   ],
-  "rank": 1004,
-  "img": "img/reply/confused.jpg",
-  "source": "Template via Imgflip (is-this-a-pigeon); caption by Meme Library"
+  "rank": 1003,
+  "img": "img/reply/surprised-pikachu.jpg",
+  "source": "Template via Imgflip (surprised-pikachu); original meme wording, no translation"
  },
  {
-  "id": "reply-ok-go",
-  "name": "Let's go!",
-  "name_th": "OK จัดไป",
-  "caption_th": "OK จัดไป",
-  "caption_en": "Let's go!",
+  "id": "reply-hide-the-pain",
+  "name": "Hide The Pain Harold",
+  "name_th": "",
+  "caption_original": "HIDE THE PAIN",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
+   "hide the pain harold",
+   "hide the pain",
+   "pain",
+   "fine",
    "ok",
-   "yes",
-   "go",
-   "จัดไป",
-   "เอา"
+   "ฝืนยิ้ม",
+   "เศร้า"
+  ],
+  "occasions": [
+   "reply",
+   "work",
+   "sad",
+   "sorry"
+  ],
+  "rank": 1004,
+  "img": "img/reply/hide-the-pain.jpg",
+  "source": "Template via Imgflip (hide-the-pain-harold); original meme wording, no translation"
+ },
+ {
+  "id": "reply-i-am-once-again-asking",
+  "name": "Bernie I Am Once Again Asking For Your Support",
+  "name_th": "",
+  "caption_original": "I AM ONCE AGAIN ASKING / FOR YOUR FINANCIAL SUPPORT",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "bernie i am once again asking for your support",
+   "i am once again asking / for your financial support",
+   "money",
+   "broke",
+   "เงินหมด",
+   "ขอเงิน"
+  ],
+  "occasions": [
+   "reply",
+   "broke",
+   "payday"
+  ],
+  "rank": 1005,
+  "img": "img/reply/i-am-once-again-asking.jpg",
+  "source": "Template via Imgflip (bernie-i-am-once-again-asking-for-your-support); original meme wording, no translation"
+ },
+ {
+  "id": "reply-sad-pablo",
+  "name": "Sad Pablo Escobar",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "sad pablo escobar",
+   "",
+   "sad",
+   "lonely",
+   "เศร้า",
+   "เหงา",
+   "รอ"
+  ],
+  "occasions": [
+   "reply",
+   "sad"
+  ],
+  "rank": 1006,
+  "img": "img/reply/sad-pablo.jpg",
+  "source": "Template via Imgflip (sad-pablo-escobar); original meme wording, no translation"
+ },
+ {
+  "id": "reply-is-this-a-pigeon",
+  "name": "Is This A Pigeon",
+  "name_th": "",
+  "caption_original": "IS THIS A PIGEON?",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "is this a pigeon",
+   "is this a pigeon?",
+   "confused",
+   "งง",
+   "what",
+   "อะไร"
+  ],
+  "occasions": [
+   "reply",
+   "shocked"
+  ],
+  "rank": 1007,
+  "img": "img/reply/is-this-a-pigeon.jpg",
+  "source": "Template via Imgflip (is-this-a-pigeon); original meme wording, no translation"
+ },
+ {
+  "id": "reply-roll-safe",
+  "name": "Roll Safe Think About It",
+  "name_th": "",
+  "caption_original": "CAN'T BE LATE IF YOU DON'T SHOW UP",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "roll safe think about it",
+   "can't be late if you don't show up",
+   "think",
+   "smart",
+   "คิด",
+   "ฉลาด",
+   "ได้",
+   "ok"
+  ],
+  "occasions": [
+   "reply",
+   "work"
+  ],
+  "rank": 1008,
+  "img": "img/reply/roll-safe.jpg",
+  "source": "Template via Imgflip (roll-safe-think-about-it); original meme wording, no translation"
+ },
+ {
+  "id": "reply-captain-now",
+  "name": "I M The Captain Now",
+  "name_th": "",
+  "caption_original": "LOOK AT ME / I'M THE CAPTAIN NOW",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "i m the captain now",
+   "look at me / i'm the captain now",
+   "boss",
+   "captain",
+   "หัวหน้า"
+  ],
+  "occasions": [
+   "reply",
+   "work"
+  ],
+  "rank": 1009,
+  "img": "img/reply/captain-now.jpg",
+  "source": "Template via Imgflip (i-m-the-captain-now); original meme wording, no translation"
+ },
+ {
+  "id": "reply-none-of-my-business",
+  "name": "But That S None Of My Business",
+  "name_th": "",
+  "caption_original": "BUT THAT'S NONE OF MY BUSINESS",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "but that s none of my business",
+   "but that's none of my business",
+   "gossip",
+   "ไม่ยุ่ง",
+   "เผือก",
+   "tea"
+  ],
+  "occasions": [
+   "reply",
+   "agree"
+  ],
+  "rank": 1010,
+  "img": "img/reply/none-of-my-business.jpg",
+  "source": "Template via Imgflip (but-that-s-none-of-my-business); original meme wording, no translation"
+ },
+ {
+  "id": "reply-trade-offer",
+  "name": "Trade Offer",
+  "name_th": "",
+  "caption_original": "TRADE OFFER",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "trade offer",
+   "trade offer",
+   "deal",
+   "offer",
+   "ดีล",
+   "ข้อเสนอ",
+   "ok"
+  ],
+  "occasions": [
+   "reply",
+   "work",
+   "agree"
+  ],
+  "rank": 1011,
+  "img": "img/reply/trade-offer.jpg",
+  "source": "Template via Imgflip (trade-offer); original meme wording, no translation"
+ },
+ {
+  "id": "reply-always-has-been",
+  "name": "Always Has Been",
+  "name_th": "",
+  "caption_original": "WAIT, IT'S ALL...? / ALWAYS HAS BEEN",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "always has been",
+   "wait, it's all...? / always has been",
+   "wait",
+   "always",
+   "จริง",
+   "เดี๋ยวก่อน"
   ],
   "occasions": [
    "reply",
    "agree",
-   "happy"
+   "shocked"
   ],
-  "rank": 1005,
-  "img": "img/reply/ok-go.jpg",
-  "source": "Template via Imgflip (drake-hotline-bling); caption by Meme Library"
+  "rank": 1012,
+  "img": "img/reply/always-has-been.jpg",
+  "source": "Template via Imgflip (always-has-been); original meme wording, no translation"
  },
  {
-  "id": "reply-nope",
-  "name": "Nope",
-  "name_th": "ไม่เอา",
-  "caption_th": "ไม่เอา",
-  "caption_en": "Nope",
+  "id": "reply-change-my-mind",
+  "name": "Change My Mind",
+  "name_th": "",
+  "caption_original": "CHANGE MY MIND",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
+   "change my mind",
+   "change my mind",
+   "opinion",
+   "เถียง",
+   "เห็นด้วย",
+   "ไม่"
+  ],
+  "occasions": [
+   "reply",
+   "disagree"
+  ],
+  "rank": 1013,
+  "img": "img/reply/change-my-mind.jpg",
+  "source": "Template via Imgflip (change-my-mind); original meme wording, no translation"
+ },
+ {
+  "id": "reply-getting-paid",
+  "name": "You Guys Are Getting Paid",
+  "name_th": "",
+  "caption_original": "YOU GUYS ARE GETTING PAID?",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "you guys are getting paid",
+   "you guys are getting paid?",
+   "paid",
+   "salary",
+   "เงินเดือน",
+   "เงินหมด"
+  ],
+  "occasions": [
+   "reply",
+   "payday",
+   "broke",
+   "work"
+  ],
+  "rank": 1014,
+  "img": "img/reply/getting-paid.jpg",
+  "source": "Template via Imgflip (you-guys-are-getting-paid); original meme wording, no translation"
+ },
+ {
+  "id": "reply-oprah-you-get-a",
+  "name": "Oprah You Get A",
+  "name_th": "",
+  "caption_original": "YOU GET A CAR!",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "oprah you get a",
+   "you get a car!",
+   "gift",
+   "give",
+   "แจก",
+   "ของขวัญ"
+  ],
+  "occasions": [
+   "reply",
+   "happy",
+   "birthday",
+   "payday"
+  ],
+  "rank": 1015,
+  "img": "img/reply/oprah-you-get-a.jpg",
+  "source": "Template via Imgflip (oprah-you-get-a); original meme wording, no translation"
+ },
+ {
+  "id": "reply-absolute-cinema",
+  "name": "Absolute Cinema",
+  "name_th": "",
+  "caption_original": "ABSOLUTE CINEMA",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "absolute cinema",
+   "absolute cinema",
+   "great",
+   "amazing",
+   "เก่ง",
+   "ปัง",
+   "เยี่ยม"
+  ],
+  "occasions": [
+   "reply",
+   "happy",
+   "agree"
+  ],
+  "rank": 1016,
+  "img": "img/reply/absolute-cinema.jpg",
+  "source": "Template via Imgflip (absolute-cinema); original meme wording, no translation"
+ },
+ {
+  "id": "reply-panik",
+  "name": "Panik Kalm Panik",
+  "name_th": "",
+  "caption_original": "PANIK",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "panik kalm panik",
+   "panik",
+   "panic",
+   "แพนิค",
+   "ตกใจ"
+  ],
+  "occasions": [
+   "reply",
+   "shocked",
+   "work"
+  ],
+  "rank": 1017,
+  "img": "img/reply/panik.jpg",
+  "source": "Template via Imgflip (panik-kalm-panik); original meme wording, no translation"
+ },
+ {
+  "id": "reply-kalm",
+  "name": "Panik Kalm Panik",
+  "name_th": "",
+  "caption_original": "KALM",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "panik kalm panik",
+   "kalm",
+   "calm",
+   "ใจเย็น",
+   "ok",
+   "สบาย"
+  ],
+  "occasions": [
+   "reply",
+   "happy"
+  ],
+  "rank": 1018,
+  "img": "img/reply/kalm.jpg",
+  "source": "Template via Imgflip (panik-kalm-panik); original meme wording, no translation"
+ },
+ {
+  "id": "reply-evil-kermit",
+  "name": "Evil Kermit",
+  "name_th": "",
+  "caption_original": "DO IT",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "evil kermit",
+   "do it",
+   "temptation",
+   "ทำเลย",
+   "จัดไป"
+  ],
+  "occasions": [
+   "reply",
+   "love",
+   "food"
+  ],
+  "rank": 1019,
+  "img": "img/reply/evil-kermit.jpg",
+  "source": "Template via Imgflip (evil-kermit); original meme wording, no translation"
+ },
+ {
+  "id": "reply-one-day-skeleton",
+  "name": "Waiting Skeleton",
+  "name_th": "",
+  "caption_original": "ME WAITING / FOR YOUR REPLY",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "waiting skeleton",
+   "me waiting / for your reply",
+   "waiting",
+   "รอ",
+   "ตอบ",
+   "reply",
+   "later"
+  ],
+  "occasions": [
+   "reply",
+   "sad",
+   "love"
+  ],
+  "rank": 1020,
+  "img": "img/reply/one-day-skeleton.jpg",
+  "source": "Template via Imgflip (waiting-skeleton); original meme wording, no translation"
+ },
+ {
+  "id": "reply-ight-imma-head-out",
+  "name": "Sleeping Shaq",
+  "name_th": "",
+  "caption_original": "I SLEEP",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "sleeping shaq",
+   "i sleep",
+   "sleep",
+   "good",
+   "night",
+   "ฝันดี",
+   "นอน"
+  ],
+  "occasions": [
+   "reply",
+   "happy"
+  ],
+  "rank": 1021,
+  "img": "img/reply/ight-imma-head-out.jpg",
+  "source": "Template via Imgflip (sleeping-shaq); original meme wording, no translation"
+ },
+ {
+  "id": "reply-nobody-got-time",
+  "name": "Y All Got Any More Of That",
+  "name_th": "",
+  "caption_original": "Y'ALL GOT ANY MORE OF THAT",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "y all got any more of that",
+   "y'all got any more of that",
+   "more",
+   "อีก",
+   "หิว",
+   "food"
+  ],
+  "occasions": [
+   "reply",
+   "food",
+   "happy"
+  ],
+  "rank": 1022,
+  "img": "img/reply/nobody-got-time.jpg",
+  "source": "Template via Imgflip (y-all-got-any-more-of-that); original meme wording, no translation"
+ },
+ {
+  "id": "reply-scientist",
+  "name": "You Know I M Something Of A Scientist Myself",
+  "name_th": "",
+  "caption_original": "YOU KNOW, I'M SOMETHING OF / A SCIENTIST MYSELF",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "you know i m something of a scientist myself",
+   "you know, i'm something of / a scientist myself",
+   "smart",
+   "เก่ง",
+   "ฉลาด"
+  ],
+  "occasions": [
+   "reply",
+   "work"
+  ],
+  "rank": 1023,
+  "img": "img/reply/scientist.jpg",
+  "source": "Template via Imgflip (you-know-i-m-something-of-a-scientist-myself); original meme wording, no translation"
+ },
+ {
+  "id": "reply-thats-the-same-picture",
+  "name": "They Re The Same Picture",
+  "name_th": "",
+  "caption_original": "THEY'RE THE SAME PICTURE",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "they re the same picture",
+   "they're the same picture",
+   "same",
+   "เหมือน",
+   "จริงดิ"
+  ],
+  "occasions": [
+   "reply",
+   "agree"
+  ],
+  "rank": 1024,
+  "img": "img/reply/thats-the-same-picture.jpg",
+  "source": "Template via Imgflip (they-re-the-same-picture); original meme wording, no translation"
+ },
+ {
+  "id": "reply-spiderman-pointing",
+  "name": "Spiderman Pointing At Spiderman",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "spiderman pointing at spiderman",
+   "",
+   "same",
+   "you",
+   "เหมือนกัน",
+   "จริงดิ"
+  ],
+  "occasions": [
+   "reply",
+   "agree"
+  ],
+  "rank": 1025,
+  "img": "img/reply/spiderman-pointing.jpg",
+  "source": "Template via Imgflip (spiderman-pointing-at-spiderman); original meme wording, no translation"
+ },
+ {
+  "id": "reply-epic-handshake",
+  "name": "Epic Handshake",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "epic handshake",
+   "",
+   "agree",
+   "เห็นด้วย",
+   "deal",
+   "ok",
+   "ขอบคุณ"
+  ],
+  "occasions": [
+   "reply",
+   "agree",
+   "thanks"
+  ],
+  "rank": 1026,
+  "img": "img/reply/epic-handshake.jpg",
+  "source": "Template via Imgflip (epic-handshake); original meme wording, no translation"
+ },
+ {
+  "id": "reply-monkey-puppet",
+  "name": "Monkey Puppet",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "monkey puppet",
+   "",
+   "awkward",
+   "เอ่อ",
+   "อึดอัด"
+  ],
+  "occasions": [
+   "reply",
+   "shocked",
+   "sorry"
+  ],
+  "rank": 1027,
+  "img": "img/reply/monkey-puppet.jpg",
+  "source": "Template via Imgflip (monkey-puppet); original meme wording, no translation"
+ },
+ {
+  "id": "reply-leo-cheers",
+  "name": "Leonardo Dicaprio Cheers",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "leonardo dicaprio cheers",
+   "",
+   "cheers",
+   "congrats",
+   "ยินดีด้วย",
+   "ชนแก้ว",
+   "ขอบคุณ"
+  ],
+  "occasions": [
+   "reply",
+   "birthday",
+   "newyear",
+   "songkran",
+   "loykrathong",
+   "thanks",
+   "friday"
+  ],
+  "rank": 1028,
+  "img": "img/reply/leo-cheers.jpg",
+  "source": "Template via Imgflip (leonardo-dicaprio-cheers); original meme wording, no translation"
+ },
+ {
+  "id": "reply-laughing-leo",
+  "name": "Laughing Leo",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "laughing leo",
+   "",
+   "lol",
+   "555",
+   "ขำ",
+   "haha"
+  ],
+  "occasions": [
+   "reply",
+   "happy"
+  ],
+  "rank": 1029,
+  "img": "img/reply/laughing-leo.jpg",
+  "source": "Template via Imgflip (laughing-leo); original meme wording, no translation"
+ },
+ {
+  "id": "reply-megamind-no",
+  "name": "Megamind No Bitches",
+  "name_th": "",
+  "caption_original": "NO B*TCHES?",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "megamind no bitches",
+   "no b*tches?",
+   "no",
+   "single",
+   "โสด"
+  ],
+  "occasions": [
+   "reply",
+   "sad",
+   "love"
+  ],
+  "rank": 1030,
+  "img": "img/reply/megamind-no.jpg",
+  "source": "Template via Imgflip (megamind-no-bitches); original meme wording, no translation"
+ },
+ {
+  "id": "reply-fine-yoda",
+  "name": "Star Wars Yoda",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "star wars yoda",
+   "",
+   "wise",
+   "yoda",
+   "ฉลาด"
+  ],
+  "occasions": [
+   "reply",
+   "work"
+  ],
+  "rank": 1031,
+  "img": "img/reply/fine-yoda.jpg",
+  "source": "Template via Imgflip (star-wars-yoda); original meme wording, no translation"
+ },
+ {
+  "id": "reply-skeptical-kid",
+  "name": "Third World Skeptical Kid",
+  "name_th": "",
+  "caption_original": "SO YOU'RE TELLING ME...",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "third world skeptical kid",
+   "so you're telling me...",
+   "really",
+   "จริงดิ",
+   "สงสัย"
+  ],
+  "occasions": [
+   "reply",
+   "shocked",
+   "disagree"
+  ],
+  "rank": 1032,
+  "img": "img/reply/skeptical-kid.jpg",
+  "source": "Template via Imgflip (third-world-skeptical-kid); original meme wording, no translation"
+ },
+ {
+  "id": "reply-wolverine-remember",
+  "name": "Wolverine Remember",
+  "name_th": "",
+  "caption_original": "REMEMBER?",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "wolverine remember",
+   "remember?",
+   "remember",
+   "จำได้ไหม"
+  ],
+  "occasions": [
+   "reply",
+   "sad",
+   "love"
+  ],
+  "rank": 1033,
+  "img": "img/reply/wolverine-remember.jpg",
+  "source": "Template via Imgflip (wolverine-remember); original meme wording, no translation"
+ },
+ {
+  "id": "reply-gus-fring",
+  "name": "Gus Fring We Are Not The Same",
+  "name_th": "",
+  "caption_original": "WE ARE NOT THE SAME",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "gus fring we are not the same",
+   "we are not the same",
+   "different",
+   "ไม่เหมือน"
+  ],
+  "occasions": [
+   "reply",
+   "disagree"
+  ],
+  "rank": 1034,
+  "img": "img/reply/gus-fring.jpg",
+  "source": "Template via Imgflip (gus-fring-we-are-not-the-same); original meme wording, no translation"
+ },
+ {
+  "id": "reply-drake-no",
+  "name": "Drake Hotline Bling",
+  "name_th": "",
+  "caption_original": "",
+  "type": "reply",
+  "ratio": "1:1",
+  "tags": [
+   "reply",
+   "ตอบแชท",
+   "drake hotline bling",
+   "",
    "no",
    "nope",
    "ไม่",
@@ -1480,859 +2236,160 @@
    "disagree",
    "no"
   ],
-  "rank": 1006,
-  "img": "img/reply/nope.jpg",
-  "source": "Template via Imgflip (drake-hotline-bling); caption by Meme Library"
+  "rank": 1035,
+  "img": "img/reply/drake-no.jpg",
+  "source": "Template via Imgflip (drake-hotline-bling); original meme wording, no translation"
  },
  {
-  "id": "reply-cant",
-  "name": "I can't anymore",
-  "name_th": "ไม่ไหวแล้ว",
-  "caption_th": "ไม่ไหวแล้ว",
-  "caption_en": "I can't anymore",
+  "id": "reply-drake-yes",
+  "name": "Drake Hotline Bling",
+  "name_th": "",
+  "caption_original": "",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "tired",
-   "cant",
-   "ไม่ไหว",
-   "เหนื่อย"
-  ],
-  "occasions": [
-   "reply",
-   "work",
-   "sad",
-   "monday"
-  ],
-  "rank": 1007,
-  "img": "img/reply/cant.jpg",
-  "source": "Template via Imgflip (this-is-fine); caption by Meme Library"
- },
- {
-  "id": "reply-fighting",
-  "name": "Fighting!",
-  "name_th": "สู้ๆ",
-  "caption_th": "สู้ๆ",
-  "caption_en": "Fighting!",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "fighting",
-   "สู้",
-   "cheer",
-   "you",
-   "can",
-   "do",
-   "it"
-  ],
-  "occasions": [
-   "reply",
-   "work",
-   "happy"
-  ],
-  "rank": 1008,
-  "img": "img/reply/fighting.jpg",
-  "source": "Template via Imgflip (buff-doge-vs-cheems); caption by Meme Library"
- },
- {
-  "id": "reply-sorry",
-  "name": "Sorry",
-  "name_th": "ขอโทษนะ",
-  "caption_th": "ขอโทษนะ",
-  "caption_en": "Sorry",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "sorry",
-   "ขอโทษ",
-   "apology"
-  ],
-  "occasions": [
-   "reply",
-   "sorry",
-   "sad"
-  ],
-  "rank": 1009,
-  "img": "img/reply/sorry.jpg",
-  "source": "Template via Imgflip (sad-pablo-escobar); caption by Meme Library"
- },
- {
-  "id": "reply-so-true",
-  "name": "So true",
-  "name_th": "จริงดิ",
-  "caption_th": "จริงดิ",
-  "caption_en": "So true",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "true",
-   "same",
-   "จริง",
-   "ใช่",
-   "เหมือนกัน"
-  ],
-  "occasions": [
-   "reply",
-   "agree"
-  ],
-  "rank": 1010,
-  "img": "img/reply/so-true.jpg",
-  "source": "Template via Imgflip (spiderman-pointing-at-spiderman); caption by Meme Library"
- },
- {
-  "id": "reply-what",
-  "name": "What?!",
-  "name_th": "อะไรนะ!?",
-  "caption_th": "อะไรนะ!?",
-  "caption_en": "What?!",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "what",
-   "อะไร",
-   "huh"
-  ],
-  "occasions": [
-   "reply",
-   "shocked"
-  ],
-  "rank": 1011,
-  "img": "img/reply/what.jpg",
-  "source": "Template via Imgflip (surprised-pikachu); caption by Meme Library"
- },
- {
-  "id": "reply-shocked",
-  "name": "Shocked",
-  "name_th": "ตกใจหมดเลย",
-  "caption_th": "ตกใจหมดเลย",
-  "caption_en": "Shocked",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "shocked",
-   "omg",
-   "ตกใจ",
-   "wow"
-  ],
-  "occasions": [
-   "reply",
-   "shocked"
-  ],
-  "rank": 1012,
-  "img": "img/reply/shocked.jpg",
-  "source": "Template via Imgflip (surprised-pikachu); caption by Meme Library"
- },
- {
-  "id": "reply-agree",
-  "name": "Agree",
-  "name_th": "เห็นด้วย",
-  "caption_th": "เห็นด้วย",
-  "caption_en": "Agree",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "agree",
+   "drake hotline bling",
+   "",
    "yes",
-   "เห็นด้วย",
-   "deal"
+   "ok",
+   "ได้",
+   "จัดไป",
+   "เอา"
   ],
   "occasions": [
    "reply",
-   "agree"
-  ],
-  "rank": 1013,
-  "img": "img/reply/agree.jpg",
-  "source": "Template via Imgflip (epic-handshake); caption by Meme Library"
- },
- {
-  "id": "reply-later",
-  "name": "Reply later",
-  "name_th": "เดี๋ยวตอบนะ",
-  "caption_th": "เดี๋ยวตอบนะ",
-  "caption_en": "Reply later",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "later",
-   "busy",
-   "เดี๋ยวตอบ"
-  ],
-  "occasions": [
-   "reply",
-   "work"
-  ],
-  "rank": 1014,
-  "img": "img/reply/later.jpg",
-  "source": "Template via Imgflip (sleeping-shaq); caption by Meme Library"
- },
- {
-  "id": "reply-omw",
-  "name": "On my way",
-  "name_th": "กำลังไป!",
-  "caption_th": "กำลังไป!",
-  "caption_en": "On my way",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "omw",
-   "coming",
-   "กำลังไป",
-   "on",
-   "my",
-   "way"
-  ],
-  "occasions": [
-   "reply",
-   "work"
-  ],
-  "rank": 1015,
-  "img": "img/reply/omw.jpg",
-  "source": "Template via Imgflip (running-away-balloon); caption by Meme Library"
- },
- {
-  "id": "reply-hungry",
-  "name": "Hungry",
-  "name_th": "หิวแล้ว",
-  "caption_th": "หิวแล้ว",
-  "caption_en": "Hungry",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "hungry",
-   "หิว",
-   "food",
-   "กิน"
-  ],
-  "occasions": [
-   "reply",
-   "food"
-  ],
-  "rank": 1016,
-  "img": "img/reply/hungry.jpg",
-  "source": "Template via Imgflip (inhaling-seagull); caption by Meme Library"
- },
- {
-  "id": "reply-broke",
-  "name": "I'm broke",
-  "name_th": "เงินหมด",
-  "caption_th": "เงินหมด",
-  "caption_en": "I'm broke",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "broke",
-   "money",
-   "เงินหมด",
-   "จน"
-  ],
-  "occasions": [
-   "reply",
-   "broke",
-   "payday"
-  ],
-  "rank": 1017,
-  "img": "img/reply/broke.jpg",
-  "source": "Template via Imgflip (bernie-i-am-once-again-asking-for-your-support); caption by Meme Library"
- },
- {
-  "id": "reply-payday",
-  "name": "Payday!",
-  "name_th": "เงินเดือนออก!",
-  "caption_th": "เงินเดือนออก!",
-  "caption_en": "Payday!",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "payday",
-   "salary",
-   "เงินเดือน"
-  ],
-  "occasions": [
-   "reply",
-   "payday",
+   "agree",
    "happy"
   ],
-  "rank": 1018,
-  "img": "img/reply/payday.jpg",
-  "source": "Template via Imgflip (oprah-you-get-a); caption by Meme Library"
+  "rank": 1036,
+  "img": "img/reply/drake-yes.jpg",
+  "source": "Template via Imgflip (drake-hotline-bling); original meme wording, no translation"
  },
  {
-  "id": "reply-congrats",
-  "name": "Congrats!",
-  "name_th": "ยินดีด้วย",
-  "caption_th": "ยินดีด้วย",
-  "caption_en": "Congrats!",
+  "id": "reply-woman-yelling",
+  "name": "Woman Yelling At Cat",
+  "name_th": "",
+  "caption_original": "",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "congrats",
-   "ยินดีด้วย",
-   "cheers"
+   "woman yelling at cat",
+   "",
+   "angry",
+   "โกรธ",
+   "พูดมาได้"
   ],
   "occasions": [
    "reply",
-   "birthday",
-   "happy",
-   "newyear"
+   "disagree",
+   "shocked"
   ],
-  "rank": 1019,
-  "img": "img/reply/congrats.jpg",
-  "source": "Template via Imgflip (leonardo-dicaprio-cheers); caption by Meme Library"
+  "rank": 1037,
+  "img": "img/reply/woman-yelling.jpg",
+  "source": "Template via Imgflip (woman-yelling-at-cat); original meme wording, no translation"
  },
  {
-  "id": "reply-cheers",
-  "name": "Cheers!",
-  "name_th": "ชนแก้ว!",
-  "caption_th": "ชนแก้ว!",
-  "caption_en": "Cheers!",
+  "id": "reply-confused-cat",
+  "name": "Woman Yelling At Cat",
+  "name_th": "",
+  "caption_original": "",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "cheers",
-   "party",
-   "ปาร์ตี้",
-   "ชน"
+   "woman yelling at cat",
+   "",
+   "confused",
+   "cat",
+   "งง",
+   "แมว"
   ],
   "occasions": [
    "reply",
-   "friday",
-   "newyear",
-   "songkran",
-   "loykrathong"
+   "shocked"
   ],
-  "rank": 1020,
-  "img": "img/reply/cheers.jpg",
-  "source": "Template via Imgflip (leonardo-dicaprio-cheers); caption by Meme Library"
+  "rank": 1038,
+  "img": "img/reply/confused-cat.jpg",
+  "source": "Template via Imgflip (woman-yelling-at-cat); original meme wording, no translation"
  },
  {
-  "id": "reply-hbd",
-  "name": "Happy birthday",
-  "name_th": "สุขสันต์วันเกิด",
-  "caption_th": "สุขสันต์วันเกิด",
-  "caption_en": "Happy birthday",
+  "id": "reply-grandma-internet",
+  "name": "Grandma Finds The Internet",
+  "name_th": "",
+  "caption_original": "",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "birthday",
-   "hbd",
-   "วันเกิด"
-  ],
-  "occasions": [
-   "reply",
-   "birthday"
-  ],
-  "rank": 1021,
-  "img": "img/reply/hbd.jpg",
-  "source": "Template via Imgflip (oprah-you-get-a); caption by Meme Library"
- },
- {
-  "id": "reply-good-night",
-  "name": "Good night",
-  "name_th": "ฝันดีนะ",
-  "caption_th": "ฝันดีนะ",
-  "caption_en": "Good night",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "good",
-   "night",
-   "ฝันดี",
-   "นอน",
-   "sleep"
-  ],
-  "occasions": [
-   "reply",
-   "love"
-  ],
-  "rank": 1022,
-  "img": "img/reply/good-night.jpg",
-  "source": "Template via Imgflip (sleeping-shaq); caption by Meme Library"
- },
- {
-  "id": "reply-good-morning",
-  "name": "Good morning",
-  "name_th": "อรุณสวัสดิ์",
-  "caption_th": "อรุณสวัสดิ์",
-  "caption_en": "Good morning",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "good",
-   "morning",
-   "อรุณสวัสดิ์",
-   "ตื่น"
-  ],
-  "occasions": [
-   "reply",
-   "monday",
-   "work"
-  ],
-  "rank": 1023,
-  "img": "img/reply/good-morning.jpg",
-  "source": "Template via Imgflip (sleeping-shaq); caption by Meme Library"
- },
- {
-  "id": "reply-meeting",
-  "name": "In a meeting",
-  "name_th": "ประชุมอยู่",
-  "caption_th": "ประชุมอยู่",
-  "caption_en": "In a meeting",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "meeting",
-   "busy",
-   "ประชุม"
-  ],
-  "occasions": [
-   "reply",
-   "work"
-  ],
-  "rank": 1024,
-  "img": "img/reply/meeting.jpg",
-  "source": "Template via Imgflip (boardroom-meeting-suggestion); caption by Meme Library"
- },
- {
-  "id": "reply-ack",
-  "name": "Acknowledged",
-  "name_th": "รับทราบ",
-  "caption_th": "รับทราบ",
-  "caption_en": "Acknowledged",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "acknowledged",
-   "noted",
-   "รับทราบ",
+   "grandma finds the internet",
+   "",
+   "internet",
+   "ยาย",
    "ok"
   ],
   "occasions": [
    "reply",
-   "work",
-   "agree"
-  ],
-  "rank": 1025,
-  "img": "img/reply/ack.jpg",
-  "source": "Template via Imgflip (one-does-not-simply); caption by Meme Library"
- },
- {
-  "id": "reply-great-job",
-  "name": "Great job!",
-  "name_th": "เก่งมาก!",
-  "caption_th": "เก่งมาก!",
-  "caption_en": "Great job!",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "great",
-   "job",
-   "good",
-   "เก่ง",
-   "ปัง"
-  ],
-  "occasions": [
-   "reply",
-   "work",
-   "happy"
-  ],
-  "rank": 1026,
-  "img": "img/reply/great-job.jpg",
-  "source": "Template via Imgflip (leonardo-dicaprio-cheers); caption by Meme Library"
- },
- {
-  "id": "reply-calm",
-  "name": "Calm down",
-  "name_th": "ใจเย็นๆ",
-  "caption_th": "ใจเย็นๆ",
-  "caption_en": "Calm down",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "calm",
-   "relax",
-   "ใจเย็น"
-  ],
-  "occasions": [
-   "reply",
-   "work"
-  ],
-  "rank": 1027,
-  "img": "img/reply/calm.jpg",
-  "source": "Template via Imgflip (hide-the-pain-harold); caption by Meme Library"
- },
- {
-  "id": "reply-how-dare",
-  "name": "How dare you",
-  "name_th": "พูดมาได้",
-  "caption_th": "พูดมาได้",
-  "caption_en": "How dare you",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "how",
-   "dare",
-   "พูดมาได้",
-   "ประชด"
-  ],
-  "occasions": [
-   "reply",
-   "disagree",
+   "happy",
    "shocked"
   ],
-  "rank": 1028,
-  "img": "img/reply/how-dare.jpg",
-  "source": "Template via Imgflip (woman-yelling-at-cat); caption by Meme Library"
+  "rank": 1039,
+  "img": "img/reply/grandma-internet.jpg",
+  "source": "Template via Imgflip (grandma-finds-the-internet); original meme wording, no translation"
  },
  {
-  "id": "reply-bored",
-  "name": "Bored",
-  "name_th": "เบื่อ",
-  "caption_th": "เบื่อ",
-  "caption_en": "Bored",
+  "id": "reply-distracted-bf",
+  "name": "Distracted Boyfriend",
+  "name_th": "",
+  "caption_original": "",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "bored",
-   "เบื่อ"
-  ],
-  "occasions": [
-   "reply",
-   "sad",
-   "monday"
-  ],
-  "rank": 1029,
-  "img": "img/reply/bored.jpg",
-  "source": "Template via Imgflip (squidward-window); caption by Meme Library"
- },
- {
-  "id": "reply-love-you",
-  "name": "Love you",
-  "name_th": "รักนะ",
-  "caption_th": "รักนะ",
-  "caption_en": "Love you",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
+   "distracted boyfriend",
+   "",
    "love",
    "รัก",
-   "รักนะ"
+   "แฟน"
   ],
   "occasions": [
    "reply",
    "love"
   ],
-  "rank": 1030,
-  "img": "img/reply/love-you.jpg",
-  "source": "Template via Imgflip (distracted-boyfriend); caption by Meme Library"
+  "rank": 1040,
+  "img": "img/reply/distracted-bf.jpg",
+  "source": "Template via Imgflip (distracted-boyfriend); original meme wording, no translation"
  },
  {
-  "id": "reply-monday",
-  "name": "Monday again",
-  "name_th": "วันจันทร์อีกแล้ว",
-  "caption_th": "วันจันทร์อีกแล้ว",
-  "caption_en": "Monday again",
+  "id": "reply-bike-fall",
+  "name": "Bike Fall",
+  "name_th": "",
+  "caption_original": "",
   "type": "reply",
   "ratio": "1:1",
   "tags": [
    "reply",
    "ตอบแชท",
-   "monday",
-   "จันทร์"
+   "bike fall",
+   "",
+   "fail",
+   "พัง",
+   "ขอโทษ",
+   "ซวย"
   ],
   "occasions": [
    "reply",
-   "monday",
    "sad",
-   "work"
-  ],
-  "rank": 1031,
-  "img": "img/reply/monday.jpg",
-  "source": "Template via Imgflip (waiting-skeleton); caption by Meme Library"
- },
- {
-  "id": "reply-friday",
-  "name": "Friday!",
-  "name_th": "ศุกร์แล้วจ้า",
-  "caption_th": "ศุกร์แล้วจ้า",
-  "caption_en": "Friday!",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "friday",
-   "ศุกร์",
-   "weekend"
-  ],
-  "occasions": [
-   "reply",
-   "friday",
-   "happy"
-  ],
-  "rank": 1032,
-  "img": "img/reply/friday.jpg",
-  "source": "Template via Imgflip (tuxedo-winnie-the-pooh); caption by Meme Library"
- },
- {
-  "id": "reply-deadline",
-  "name": "Deadline tomorrow",
-  "name_th": "เดดไลน์พรุ่งนี้",
-  "caption_th": "เดดไลน์พรุ่งนี้",
-  "caption_en": "Deadline tomorrow",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "deadline",
-   "เดดไลน์",
-   "งาน"
-  ],
-  "occasions": [
-   "reply",
-   "work"
-  ],
-  "rank": 1033,
-  "img": "img/reply/deadline.jpg",
-  "source": "Template via Imgflip (this-is-fine); caption by Meme Library"
- },
- {
-  "id": "reply-panic",
-  "name": "Panic",
-  "name_th": "แพนิค",
-  "caption_th": "แพนิค",
-  "caption_en": "Panic",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "panic",
-   "แพนิค"
-  ],
-  "occasions": [
-   "reply",
-   "shocked",
-   "work"
-  ],
-  "rank": 1034,
-  "img": "img/reply/panic.jpg",
-  "source": "Template via Imgflip (panik-kalm-panik); caption by Meme Library"
- },
- {
-  "id": "reply-thinking",
-  "name": "Let me think",
-  "name_th": "คิดก่อนนะ",
-  "caption_th": "คิดก่อนนะ",
-  "caption_en": "Let me think",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "think",
-   "คิด",
-   "hmm"
-  ],
-  "occasions": [
-   "reply",
-   "work"
-  ],
-  "rank": 1035,
-  "img": "img/reply/thinking.jpg",
-  "source": "Template via Imgflip (roll-safe-think-about-it); caption by Meme Library"
- },
- {
-  "id": "reply-suspicious",
-  "name": "Awkward...",
-  "name_th": "เอ่อ...",
-  "caption_th": "เอ่อ...",
-  "caption_en": "Awkward...",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "awkward",
-   "เอ่อ",
-   "อึดอัด",
-   "แอบมอง"
-  ],
-  "occasions": [
-   "reply",
-   "shocked",
    "sorry"
   ],
-  "rank": 1036,
-  "img": "img/reply/suspicious.jpg",
-  "source": "Template via Imgflip (monkey-puppet); caption by Meme Library"
- },
- {
-  "id": "reply-trade",
-  "name": "Deal?",
-  "name_th": "ข้อเสนอ",
-  "caption_th": "ข้อเสนอ",
-  "caption_en": "Deal?",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "deal",
-   "offer",
-   "ดีล",
-   "ข้อเสนอ"
-  ],
-  "occasions": [
-   "reply",
-   "work",
-   "agree"
-  ],
-  "rank": 1037,
-  "img": "img/reply/trade.jpg",
-  "source": "Template via Imgflip (trade-offer); caption by Meme Library"
- },
- {
-  "id": "reply-no-way",
-  "name": "No way",
-  "name_th": "ไม่จริงอ่ะ",
-  "caption_th": "ไม่จริงอ่ะ",
-  "caption_en": "No way",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "no",
-   "way",
-   "ไม่จริง"
-  ],
-  "occasions": [
-   "reply",
-   "disagree",
-   "shocked"
-  ],
-  "rank": 1038,
-  "img": "img/reply/no-way.jpg",
-  "source": "Template via Imgflip (evil-kermit); caption by Meme Library"
- },
- {
-  "id": "reply-sad",
-  "name": "So sad",
-  "name_th": "เศร้าเลย",
-  "caption_th": "เศร้าเลย",
-  "caption_en": "So sad",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "sad",
-   "เศร้า",
-   "ร้องไห้",
-   "อกหัก"
-  ],
-  "occasions": [
-   "reply",
-   "sad"
-  ],
-  "rank": 1039,
-  "img": "img/reply/sad.jpg",
-  "source": "Template via Imgflip (grant-gustin-over-grave); caption by Meme Library"
- },
- {
-  "id": "reply-welcome",
-  "name": "You're welcome",
-  "name_th": "ยินดีครับ",
-  "caption_th": "ยินดีครับ",
-  "caption_en": "You're welcome",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "welcome",
-   "ยินดี",
-   "ไม่เป็นไร"
-  ],
-  "occasions": [
-   "reply",
-   "thanks"
-  ],
-  "rank": 1040,
-  "img": "img/reply/welcome.jpg",
-  "source": "Template via Imgflip (epic-handshake); caption by Meme Library"
- },
- {
-  "id": "reply-lets-eat",
-  "name": "What to eat?",
-  "name_th": "กินอะไรดี?",
-  "caption_th": "กินอะไรดี?",
-  "caption_en": "What to eat?",
-  "type": "reply",
-  "ratio": "1:1",
-  "tags": [
-   "reply",
-   "ตอบแชท",
-   "eat",
-   "food",
-   "กิน",
-   "หิว"
-  ],
-  "occasions": [
-   "reply",
-   "food"
-  ],
   "rank": 1041,
-  "img": "img/reply/lets-eat.jpg",
-  "source": "Template via Imgflip (y-all-got-any-more-of-that); caption by Meme Library"
+  "img": "img/reply/bike-fall.jpg",
+  "source": "Template via Imgflip (bike-fall); original meme wording, no translation"
  }
 ]
